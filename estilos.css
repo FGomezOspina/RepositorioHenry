@@ -2,6 +2,11 @@
     background-color: aqua;
 }
 
+img {
+    width: 50%;
+    height: 10%;
+}
+
 .mitexto {
     scale: 20px;
     color: blue;
